@@ -1,0 +1,9 @@
+.metadata
+.metadata/
+*/bin/*
+bin
+*.pdf
+*.csv
+
+*.*~
+.DS_Store
